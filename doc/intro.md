@@ -12,7 +12,7 @@ and especially spare the target and their ISP.
 
 Like a [bandwidth enforcer][bwe] but for DDoS attacks on the public Internet.
 
-![intro diagram][intro.png]
+![intro diagram](intro.png)
 
 ## Attack types
 
